@@ -1,2 +1,2 @@
 # Homestay-System
-Homestay Booking System made for SPM
+Homestay Booking System made for SPM Computer Science
